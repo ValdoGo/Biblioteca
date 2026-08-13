@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "774805728240",
+    "project_id": "biblioteca-c8737",
+    "storage_bucket": "biblioteca-c8737.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774805728240:web:d06b2614ef800b3c188b35",
+        "android_client_info": {
+          "package_name": "com.aistudio.digitallibrary.mqlvpt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC6vJXQ-HoB2wK4bZ1Gbh1uE0hg7afQSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
